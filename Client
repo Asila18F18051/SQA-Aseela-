@@ -1,2 +1,5 @@
 String Client Name, Phone Number, ID, String Address. 
 Read Client name, phone number, ID, Address 
+read request, 
+if the request> 2000 than 
+display 20% discount 
